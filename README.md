@@ -36,4 +36,4 @@ Manages the stock levels of products.
 ### 7. `suppliers`
 Stores details of suppliers providing products.
 
-## Run the "CreateDB" file, then "PopulateDB" file and you will be ready to execute some SQL queries on the database.
+Run the "CreateDB" file, then "PopulateDB" file and you will be ready to execute some SQL queries on the database.
